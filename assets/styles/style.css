@@ -2,10 +2,10 @@
 
  
  .btn:hover{
-    color: rgb(14, 1, 1);
-   background-color: #1f7f41;
+    color: rgb(210, 202, 202);
+   background-color: #f1f5f9;
    }
-  
+ 
    @media (min-width: 1200px) {
     .container{
         max-width: 800px;
