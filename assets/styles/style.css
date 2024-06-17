@@ -3,11 +3,9 @@
  
  .btn:hover{
     color: rgb(14, 1, 1);
-   background-color: #48a569;
+   background-color: #1f7f41;
    }
-   .btn{
-    background-color: #1f7f41;
-   }
+  
    @media (min-width: 1200px) {
     .container{
         max-width: 800px;
